@@ -10,11 +10,21 @@ namespace Atividade_Template
     {
         static void Main(string[] args)
         {
-            string[] aa = { "GRANDE GIGANTE NOME", "Pele", "Amir", "" };
+            string[] teste1 = { "GRANDE GIGANTE NOME", "Pele", "Amir", "", "aaai", "paulinho" };
+            string[] teste2 = { "tenis", "Puma", "Abibas", "telefone", "", "nice", "aaaaaaaaaaaaaaa", "oi" };
 
-            Array.Sort(aa, new OrdenaTamanho());
+            Array.Sort(teste1, new OrdenaUltimaLetra());
+            Array.Sort(teste2, new OrdenaTamanho());
 
-            foreach (string a in aa) Console.WriteLine(a);
+            Console.WriteLine("[TESTE - ORDENAÇÃO PELA ÚLTIMA LETRA]");
+            foreach (string a in teste1) Console.Write("-" + a + "-");
+
+            Console.Write("\n\n");
+
+            Console.WriteLine("[TESTE - ORDENAÇÃO PELO TAMANHO]");
+            foreach (string a in teste2) Console.Write("-" + a + "-");
+
+            Console.Write("\n");
         }
     }
 }
