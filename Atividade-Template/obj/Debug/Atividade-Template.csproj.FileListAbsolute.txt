@@ -1,0 +1,7 @@
+C:\Users\André\source\repos\Atividade-Template\Atividade-Template\bin\Debug\Atividade-Template.exe.config
+C:\Users\André\source\repos\Atividade-Template\Atividade-Template\bin\Debug\Atividade-Template.exe
+C:\Users\André\source\repos\Atividade-Template\Atividade-Template\bin\Debug\Atividade-Template.pdb
+C:\Users\André\source\repos\Atividade-Template\Atividade-Template\obj\Debug\Atividade-Template.csproj.AssemblyReference.cache
+C:\Users\André\source\repos\Atividade-Template\Atividade-Template\obj\Debug\Atividade-Template.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\Atividade-Template\Atividade-Template\obj\Debug\Atividade-Template.exe
+C:\Users\André\source\repos\Atividade-Template\Atividade-Template\obj\Debug\Atividade-Template.pdb

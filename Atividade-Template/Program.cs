@@ -10,6 +10,11 @@ namespace Atividade_Template
     {
         static void Main(string[] args)
         {
+            string[] aa = { "d", "c", "b", "a" };
+
+            Array.Sort(aa, new OrdenaUltimaLetra());
+
+            foreach (string a in aa) Console.WriteLine(a);
         }
     }
 }
